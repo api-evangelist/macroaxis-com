@@ -1,4 +1,4 @@
-# macroaxis-com
+# Macroaxis
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-macroaxis-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://macroaxis.com/
+Macroaxis provides portfolio origination, research, analytics, and optimization tools for educational purposes, emphasizing risk diversification and allocation. It offers AI-driven portfolio optimization, market analysis across stocks, ETFs, mutual funds, commodities, and economic indicators. The platform is not a registered investment advisor; all investments are speculative and involve risk of loss.
+
+**Areas:** Finance · Investment · Portfolio · Analytics · AI
+
+## Macroaxis on APIs.io
+
+Everything profiled for Macroaxis is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/macroaxis-com/](https://apis.io/providers/macroaxis-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Macroaxis API](https://apis.io/apis/macroaxis-com/macroaxis-api/) — API documentation listed at /api-docs providing various data endpoints (e.g., /metrics.json, /sectors.json). No machine-readable contract found.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Macroaxis Authentication](https://apis.io/security/macroaxis-com/macroaxis-com-authentication/)
+- [Macroaxis Domain Security](https://apis.io/security/macroaxis-com/macroaxis-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.macroaxis.com/)
+- [Documentation](https://www.macroaxis.com/api-docs)
+- [Getting started](https://www.macroaxis.com/api-docs/quickstart)
+- [API reference](https://www.macroaxis.com/api-docs)
+- [Pricing](https://www.macroaxis.com/invest/portfolio-optimization)
+- [Support](http://support.macroaxis.com)
+- [Blog](https://blog.macroaxis.com/)
+
+## API Evangelist rating
+
+**Kin Score 18.5** — emerging · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 19.1 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/macroaxis-com/](https://apis.io/providers/macroaxis-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Macroaxis: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/macroaxis-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
